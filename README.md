@@ -23,7 +23,7 @@
 
 <br>
 
-<h3 align="center">💻 Programming Languages</h3>
+<h3 align="center">💻 Programming Languages</h3> <br>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -41,7 +41,7 @@
 
 <br>
 
-<h3 align="center">🎨 Frontend Development</h3>
+<h3 align="center">🎨 Frontend Development</h3> <br>
 <p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -65,7 +65,7 @@
 
 <br>
 
-<h3 align="center">⚙️ Backend Development</h3>
+<h3 align="center">⚙️ Backend Development</h3> <br>
 <p align="center">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -77,7 +77,7 @@
 
 <br>
 
-<h3 align="center">📱 Mobile App Development</h3>
+<h3 align="center">📱 Mobile App Development</h3> <br>
 <p align="center">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
@@ -86,7 +86,7 @@
 
 <br>
 
-<h3 align="center">🗄️ Database</h3>
+<h3 align="center">🗄️ Database</h3> <br>
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -95,7 +95,7 @@
 
 <br>
 
-<h3 align="center">🛠️ Software & Tools</h3>
+<h3 align="center">🛠️ Software & Tools</h3> <br>
 <p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
