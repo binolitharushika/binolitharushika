@@ -39,6 +39,8 @@
   </a>
 </p>
 
+<br>
+
 <h3 align="center">🎨 Frontend Development</h3>
 <p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -61,6 +63,8 @@
   </a>
 </p>
 
+<br>
+
 <h3 align="center">⚙️ Backend Development</h3>
 <p align="center">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -71,6 +75,8 @@
   </a>
 </p>
 
+<br>
+
 <h3 align="center">📱 Mobile App Development</h3>
 <p align="center">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
@@ -78,12 +84,16 @@
   </a>
 </p>
 
+<br>
+
 <h3 align="center">🗄️ Database</h3>
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
+
+<br>
 
 <h3 align="center">🛠️ Software & Tools</h3>
 <p align="center">
@@ -100,6 +110,8 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
+
+<br>
 
 ---
 
