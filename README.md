@@ -11,11 +11,26 @@
 
 <br>
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
 ## 📌 About Me
 
 * 🌱 I’m currently learning at **Rajarata University of Sri Lanka**.
 * 📫 How to reach me: **binolitharushika13@gmail.com**
 * ⚡ In my free time: **Learning new things and exploring new ideas.**
+
+  </td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+
 
 ---
 
@@ -115,7 +130,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/photoshop/photoshop-icon.svg" alt="photoshop" width="40" height="40"/>
+   <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
