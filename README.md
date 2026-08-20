@@ -2,7 +2,7 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px" alt="About Me GIF">
 </p>
 
-<h1 align="center">Hi 👋, I'm F.B.B. Tharushika</h1>
+<h1 align="center">Hi 👋, I'm Binoli Tharushika</h1>
 <h3 align="center">IT Undergraduate | Discovering Endless Possibilities in Technology</h3>
 
 <p align="center">
